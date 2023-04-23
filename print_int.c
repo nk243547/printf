@@ -1,5 +1,7 @@
 #include "main.h"
+
 /**
+* Printf team project Nelson and Brenda.
 * print_int - function that prints an integer
 * @i: integer to print
 * Descriptions: prints digit with _putchar
