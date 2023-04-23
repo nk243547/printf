@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+* Printf team project Nelson and Brenda.
 * print_dec - function that prints an decimal
 * @d: integer to print
 * Descriptions: prints digit with _putchar
