@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
+* Printf team project Nelson and Brenda.
 * print_rot13 - encodes a string into rot13.
 * @R: string to convert
 * Return: size the output text
