@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
+* Printf team project Nelson and Brenda.
 * print_bin - convert to binary
 * @b: number in decinal
 * Return: number of chars printed
