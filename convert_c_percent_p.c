@@ -5,6 +5,7 @@ unsigned int convert_percent(va_list args, buffer_t *output,unsigned char flags,
 unsigned int convert_p(va_list args, buffer_t *output,unsigned char flags, int wid, int prec, unsigned char len);
 
 /**
+* Printf team project Nelson and Brenda.
 * convert_c - Converts an argument to an unsigned char and
 * stores it to a buffer contained in a struct.
 * @args: A va_list pointing to the argument to be converted.
