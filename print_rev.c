@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
+* Printf team project Nelson and Brenda.
 *print_rev - prints astring in reverse
 *@r: string to print
 *Return: number of chars printed
