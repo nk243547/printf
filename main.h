@@ -27,4 +27,4 @@ char *sc;
 int (*f)(va_list);
 } code_f;
 
-#endif /* HOLBERTONH */
+#endif /* MAINH */
