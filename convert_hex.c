@@ -4,6 +4,7 @@ unsigned int convert_x(va_list args, buffer_t *output,unsigned char flags, int w
 unsigned int convert_X(va_list args, buffer_t *output,unsigned char flags, int wid, int prec, unsigned char len);
 
 /**
+* Printf team project Nelson and Brenda.
 * convert_x - Converts an unsigned int argument to hex using abcdef
 * and stores it to a buffer contained in a struct.
 * @args: A va_list pointing to the argument to be converted.
