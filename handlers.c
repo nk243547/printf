@@ -7,6 +7,7 @@ int handle_precision(va_list args, const char *modifier, char *index);
 unsigned int (*handle_specifiers(const char *specifier))(va_list, buffer_t *,unsigned char, int, int, unsigned char);
 
 /**
+* Printf team project Nelson and Brenda.
 * handle_flags - Matches flags with corresponding values.
 * @flag: A pointer to a potential string of flags.
 * @index: An index counter for the original format string.
