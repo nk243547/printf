@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
+* Printf team project Nelson and Brenda.
 * print_string - writes the character c to stdout
 * @s: The string to print
 *
