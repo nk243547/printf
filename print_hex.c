@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+* Printf team project Nelson and Brenda.
 * print_hex - function that prints an unsigned int in hexadecimal
 * @n: unsigned to be printed
 * @c: case of printing (0 = lower, 1 = upper)
