@@ -6,6 +6,7 @@ unsigned int convert_u(va_list args, buffer_t *output,unsigned char flags, int w
 unsigned int convert_o(va_list args, buffer_t *output,unsigned char flags, int wid, int prec, unsigned char len);
 
 /**
+* Printf team project Nelson and Brenda.
 * convert_di - Converts an argument to a signed int and
 * stores it to a buffer contained in a struct.
 * @args: A va_list pointing to the argument to be converted.
